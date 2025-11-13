@@ -128,7 +128,8 @@ Machine-learning---Python/
 
 - [x] রিপোজিটরি সেটআপ
 - [x] Python Basics সম্পন্ন
-- [ ] NumPy
+- [x] NumPy
+- [ ] Pandas
 - [ ] প্রথম ML মডেল তৈরি
 - [ ] প্রথম প্রজেক্ট সম্পন্ন
 
