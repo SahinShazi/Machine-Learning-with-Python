@@ -130,6 +130,7 @@ Machine-learning---Python/
 - [x] Python Basics সম্পন্ন
 - [x] NumPy
 - [x] Pandas
+- [ ] Matplotlib
 - [ ] প্রথম ML মডেল তৈরি
 - [ ] প্রথম প্রজেক্ট সম্পন্ন
 
